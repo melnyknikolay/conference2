@@ -1,0 +1,21 @@
+JavaFX in Browser:
+https://www.jpro.one/
+start jpro project:  mvn jpro:run
+
+
+
+JavaFX on mobile device:
+https://gluonhq.com/products/mobile/
+
+
+
+Nats
+https://nats.io/download/
+
+
+
+MQTT:
+https://mosquitto.org/
+Book:
+Gaston C. Hillar - MQTT Essentials - A Lightweight IoT Protocol-Packt Publis
+
