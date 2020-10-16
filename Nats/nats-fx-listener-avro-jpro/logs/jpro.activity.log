@@ -1,0 +1,5 @@
+2020-10-15 17:18:34,203 [INFO] in Thread-0 - Starting the server
+2020-10-15 17:19:44,183 [INFO] in Thread-0 - Starting the server
+2020-10-15 17:20:06,557 [INFO] in Thread-20 - Closing the server -> used memory: 97 MB  -  free system memory: 8493 MB
+2020-10-15 17:20:50,170 [INFO] in Thread-0 - Starting the server
+2020-10-15 22:11:05,066 [INFO] in Thread-0 - Starting the server

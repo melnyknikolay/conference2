@@ -1,0 +1,276 @@
+2020-10-15 17:18:34,653 [INFO] in scala-execution-context-global-31 - [info] c.j.i.s.Initializer$ - redirected OUT / ERR
+2020-10-15 17:18:34,654 [INFO] in scala-execution-context-global-31 - [info] c.j.i.s.Initializer$ - installed SLF4JBridge
+2020-10-15 17:18:34,654 [INFO] in scala-execution-context-global-31 - [info] c.j.i.s.MonocleInitializer$ - screen: null
+2020-10-15 17:18:34,654 [INFO] in scala-execution-context-global-31 - Warning: Quantum will not submit render jobs, nothing should draw
+2020-10-15 17:18:34,654 [INFO] in scala-execution-context-global-31 - [info] c.j.i.s.Initializer$ - finished init!
+2020-10-15 17:18:34,669 [INFO] in scala-execution-context-global-31 - [info] c.j.i.s.Initializer$ - JavaFX version: 8.0.211-b10
+2020-10-15 17:18:34,712 [INFO] in scala-execution-context-global-31 - [info] c.j.i.c.m.DynamicDataModel - Started Monitoring chart data...
+2020-10-15 17:18:34,760 [INFO] in scala-execution-context-global-31 - [info] c.j.i.c.m.ChartJSONImExporter - Nothing to import
+2020-10-15 17:18:35,232 [INFO] in scala-execution-context-global-31 - [info] play.api.Play - Application started (Prod)
+2020-10-15 17:18:36,891 [INFO] in scala-execution-context-global-31 - [info] p.c.s.AkkaHttpServer - Listening for HTTP on /0:0:0:0:0:0:0:0:8080
+2020-10-15 17:18:38,487 [INFO] in scala-execution-context-global-31 - [info] c.jpro - application requested: 0!default
+2020-10-15 17:18:38,520 [INFO] in scala-execution-context-global-31 - [info] c.jpro - Creating Application: 0!default
+2020-10-15 17:18:38,525 [INFO] in scala-execution-context-global-31 - [info] c.jpro - remoteAddress 0:0:0:0:0:0:0:1
+2020-10-15 17:18:38,526 [INFO] in scala-execution-context-global-31 - [info] c.jpro - host          localhost:8080
+2020-10-15 17:18:38,526 [INFO] in scala-execution-context-global-31 - [info] c.jpro - uri           /app/0!default
+2020-10-15 17:18:39,061 [INFO] in scala-execution-context-global-31 - [error] c.j.i.s.ViewSerializerActor - JavaFXStreamer - got Exception: 
+2020-10-15 17:18:39,061 [INFO] in scala-execution-context-global-31 - java.lang.ClassNotFoundException: conferenceFX.MainApp
+2020-10-15 17:18:39,061 [INFO] in scala-execution-context-global-31 - 	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+2020-10-15 17:18:39,062 [INFO] in scala-execution-context-global-31 - 	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+2020-10-15 17:18:39,062 [INFO] in scala-execution-context-global-31 - 	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+2020-10-15 17:18:39,062 [INFO] in scala-execution-context-global-31 - 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+2020-10-15 17:18:39,063 [INFO] in scala-execution-context-global-31 - 	at simplefx.util.ReflectionUtil.loadClass(ReflectionUtil.scala:38)
+2020-10-15 17:18:39,063 [INFO] in scala-execution-context-global-43 - 	at simplefx.util.ReflectionUtil.callNew(ReflectionUtil.scala:103)
+2020-10-15 17:18:39,065 [INFO] in scala-execution-context-global-43 - 	at com.jpro.internal.config.ApplicationStarter$.startApplication(ApplicationStarter.scala:111)
+2020-10-15 17:18:39,066 [INFO] in scala-execution-context-global-43 - 	at com.jpro.internal.config.ApplicationStarter$.requestApplication(ApplicationStarter.scala:97)
+2020-10-15 17:18:39,066 [INFO] in scala-execution-context-global-43 - 	at com.jpro.internal.config.ApplicationStarter$.getApplication(ApplicationStarter.scala:63)
+2020-10-15 17:18:39,066 [INFO] in scala-execution-context-global-43 - 	at com.jpro.internal.communicator.ViewImpl.<init>(ViewImpl.scala:29)
+2020-10-15 17:19:44,757 [INFO] in scala-execution-context-global-32 - [info] c.j.i.s.Initializer$ - redirected OUT / ERR
+2020-10-15 17:19:44,758 [INFO] in scala-execution-context-global-32 - [info] c.j.i.s.Initializer$ - installed SLF4JBridge
+2020-10-15 17:19:44,758 [INFO] in scala-execution-context-global-32 - [info] c.j.i.s.MonocleInitializer$ - screen: null
+2020-10-15 17:19:44,758 [INFO] in scala-execution-context-global-32 - Warning: Quantum will not submit render jobs, nothing should draw
+2020-10-15 17:19:44,758 [INFO] in scala-execution-context-global-32 - [info] c.j.i.s.Initializer$ - finished init!
+2020-10-15 17:19:44,782 [INFO] in scala-execution-context-global-32 - [info] c.j.i.s.Initializer$ - JavaFX version: 8.0.211-b10
+2020-10-15 17:19:44,825 [INFO] in scala-execution-context-global-32 - [info] c.j.i.c.m.DynamicDataModel - Started Monitoring chart data...
+2020-10-15 17:19:44,881 [INFO] in scala-execution-context-global-32 - [info] c.j.i.c.m.ChartJSONImExporter - Nothing to import
+2020-10-15 17:19:45,204 [INFO] in scala-execution-context-global-32 - [info] play.api.Play - Application started (Prod)
+2020-10-15 17:19:46,165 [INFO] in scala-execution-context-global-32 - [info] p.c.s.AkkaHttpServer - Listening for HTTP on /0:0:0:0:0:0:0:0:8080
+2020-10-15 17:19:47,355 [INFO] in scala-execution-context-global-32 - [info] c.jpro - application requested: 0!default
+2020-10-15 17:19:47,535 [INFO] in scala-execution-context-global-32 - [info] c.jpro - Creating Application: 0!default
+2020-10-15 17:19:47,538 [INFO] in scala-execution-context-global-32 - [info] c.jpro - remoteAddress 0:0:0:0:0:0:0:1
+2020-10-15 17:19:47,539 [INFO] in scala-execution-context-global-32 - [info] c.jpro - host          localhost:8080
+2020-10-15 17:19:47,539 [INFO] in scala-execution-context-global-32 - [info] c.jpro - uri           /app/0!default
+2020-10-15 17:19:48,859 [INFO] in scala-execution-context-global-32 - [error] c.j.i.c.InstanceImpl - Error while starting application: 
+2020-10-15 17:19:48,859 [INFO] in scala-execution-context-global-32 - java.lang.RuntimeException: org.apache.avro.SchemaParseException: Cannot parse <null> schema
+2020-10-15 17:19:48,859 [INFO] in scala-execution-context-global-32 - 	at com.mycompany.nats.fx.listener.avro.MyTransformerBinary.<init>(MyTransformerBinary.java:35)
+2020-10-15 17:19:48,859 [INFO] in scala-execution-context-global-32 - 	at com.mycompany.nats.fx.listener.avro.ConnectEventHandler.<init>(ConnectEventHandler.java:25)
+2020-10-15 17:19:48,859 [INFO] in scala-execution-context-global-32 - 	at com.mycompany.nats.fx.listener.avro.MainApp.start(MainApp.java:39)
+2020-10-15 17:19:48,860 [INFO] in scala-execution-context-global-32 - 	at com.jpro.internal.config.ApplicationStarter$.$anonfun$startJApplication$1(ApplicationStarter.scala:133)
+2020-10-15 17:19:48,860 [INFO] in scala-execution-context-global-32 - 	at com.jpro.internal.config.ApplicationStarter$.$anonfun$startJApplication$1$adapted(ApplicationStarter.scala:131)
+2020-10-15 17:19:48,860 [INFO] in scala-execution-context-global-32 - 	at com.jpro.internal.communicator.InstanceImpl.start(InstanceImpl.scala:31)
+2020-10-15 17:19:48,860 [INFO] in scala-execution-context-global-32 - 	at com.jpro.internal.communicator.InstanceImpl.$anonfun$new$2(InstanceImpl.scala:25)
+2020-10-15 17:19:48,860 [INFO] in scala-execution-context-global-32 - 	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+2020-10-15 17:19:48,860 [INFO] in scala-execution-context-global-32 - 	at simplefx.cores.standard.parts.CoreTimeEvent.$anonfun$runWhenever$2(CoreTimeEvent.scala:125)
+2020-10-15 17:19:48,860 [INFO] in scala-execution-context-global-32 - 	at simplefx.cores.standard.parts.CoreTimeEvent.$anonfun$runWhenever$2$adapted(CoreTimeEvent.scala:125)
+2020-10-15 17:19:48,860 [INFO] in scala-execution-context-global-32 - Caused by: org.apache.avro.SchemaParseException: Cannot parse <null> schema
+2020-10-15 17:19:48,860 [INFO] in scala-execution-context-global-32 - 	at org.apache.avro.Schema.parse(Schema.java:1595)
+2020-10-15 17:19:48,860 [INFO] in scala-execution-context-global-32 - 	at org.apache.avro.Schema$Parser.parse(Schema.java:1394)
+2020-10-15 17:19:48,860 [INFO] in scala-execution-context-global-44 - 	at org.apache.avro.Schema$Parser.parse(Schema.java:1365)
+2020-10-15 17:19:48,861 [INFO] in scala-execution-context-global-44 - 	at com.mycompany.nats.fx.listener.avro.MyTransformerBinary.<init>(MyTransformerBinary.java:31)
+2020-10-15 17:19:48,861 [INFO] in scala-execution-context-global-44 - 	at com.mycompany.nats.fx.listener.avro.ConnectEventHandler.<init>(ConnectEventHandler.java:25)
+2020-10-15 17:19:48,861 [INFO] in scala-execution-context-global-44 - 	at com.mycompany.nats.fx.listener.avro.MainApp.start(MainApp.java:39)
+2020-10-15 17:19:48,861 [INFO] in scala-execution-context-global-44 - 	at com.jpro.internal.config.ApplicationStarter$.$anonfun$startJApplication$1(ApplicationStarter.scala:133)
+2020-10-15 17:19:48,861 [INFO] in scala-execution-context-global-44 - 	at com.jpro.internal.config.ApplicationStarter$.$anonfun$startJApplication$1$adapted(ApplicationStarter.scala:131)
+2020-10-15 17:19:48,861 [INFO] in scala-execution-context-global-44 - 	at com.jpro.internal.communicator.InstanceImpl.start(InstanceImpl.scala:31)
+2020-10-15 17:19:48,861 [INFO] in scala-execution-context-global-44 - 	at com.jpro.internal.communicator.InstanceImpl.$anonfun$new$2(InstanceImpl.scala:25)
+2020-10-15 17:19:48,861 [INFO] in scala-execution-context-global-44 - [warn] c.j.i.c.InstanceImpl - Application didn't show the stage. JPro is now calling show()
+2020-10-15 17:19:48,897 [INFO] in scala-execution-context-global-44 - [error] c.j.i.s.ViewSerializerActor - JavaFXStreamer - got Exception: 
+2020-10-15 17:19:48,897 [INFO] in scala-execution-context-global-44 - java.lang.NullPointerException: null
+2020-10-15 17:19:48,897 [INFO] in scala-execution-context-global-44 - 	at simplefx.util.ReflectionUtil$UseReflection.applyDynamic(ReflectionUtil.scala:18)
+2020-10-15 17:19:48,897 [INFO] in scala-execution-context-global-44 - 	at com.jpro.internal.communicator.ViewImpl.<init>(ViewImpl.scala:87)
+2020-10-15 17:19:48,897 [INFO] in scala-execution-context-global-44 - 	at com.jpro.internal.communicator.ViewImpl.<init>(ViewImpl.scala:29)
+2020-10-15 17:19:48,897 [INFO] in scala-execution-context-global-44 - 	at com.jpro.internal.server.ViewByActor.<init>(ViewSerializerActor.scala:81)
+2020-10-15 17:19:48,897 [INFO] in scala-execution-context-global-44 - 	at com.jpro.internal.server.ViewSerializerActor$$anonfun$receive$1$$anonfun$applyOrElse$1.$anonfun$applyOrElse$2(ViewSerializerActor.scala:49)
+2020-10-15 17:19:48,897 [INFO] in scala-execution-context-global-44 - 	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+2020-10-15 17:19:48,897 [INFO] in scala-execution-context-global-44 - 	at simplefx.util.Predef$.$anonfun$runInAndBlock$1(Predef.scala:184)
+2020-10-15 17:19:48,897 [INFO] in scala-execution-context-global-44 - 	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+2020-10-15 17:19:48,897 [INFO] in scala-execution-context-global-44 - 	at simplefx.cores.standard.parts.CoreTimeEvent.$anonfun$runAsAnimation$1(CoreTimeEvent.scala:56)
+2020-10-15 17:19:48,897 [INFO] in scala-execution-context-global-44 - 	at simplefx.cores.standard.parts.CoreTimeEvent$$anon$2.handle(CoreTimeEvent.scala:42)
+2020-10-15 17:19:48,912 [ERROR] in scala-execution-context-global-44 - java.lang.NullPointerException: Can't access extension-class for null
+2020-10-15 17:19:48,912 [ERROR] in scala-execution-context-global-44 - 	at simplefx.macros.Extension$.setRef(Extension.scala:72)
+2020-10-15 17:19:48,913 [ERROR] in scala-execution-context-global-44 - 	at simplefx.scene.packageTrait$.toSceneExtension(packageTraitScene.scala:15)
+2020-10-15 17:19:48,913 [ERROR] in scala-execution-context-global-44 - 	at simplefx.scene.packageTrait$ImportTrait.toSceneExtension(packageTraitScene.scala:15)
+2020-10-15 17:19:48,914 [ERROR] in scala-execution-context-global-44 - 	at simplefx.scene.packageTrait$ImportTrait.toSceneExtension$(packageTraitScene.scala:15)
+2020-10-15 17:19:48,914 [ERROR] in scala-execution-context-global-44 - 	at simplefx.all$.toSceneExtension(all.scala:5)
+2020-10-15 17:19:48,914 [ERROR] in scala-execution-context-global-44 - 	at com.jpro.meta.stream.FXSerializerImpl.transferScene(FXSerializer.scala:102)
+2020-10-15 17:19:48,915 [ERROR] in scala-execution-context-global-44 - 	at com.jpro.meta.stream.FXAppSerializer.$anonfun$new$6(FXAppSerializer.scala:39)
+2020-10-15 17:19:48,915 [ERROR] in scala-execution-context-global-44 - 	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+2020-10-15 17:19:48,916 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.interfaces.parts.CoreTypesEvent$EventLikeAlternateSignature.$anonfun$$minus$minus$greater$1(CoreTypesEvent.scala:16)
+2020-10-15 17:19:48,916 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.parts.CoreTypesBindable$BindableImpl.$anonfun$trigger$2(CoreTypesBindable.scala:192)
+2020-10-15 17:19:48,917 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.interfaces.parts.CoreTypesDisposer.withDetectDisposer(CoreTypesDisposer.scala:65)
+2020-10-15 17:19:48,917 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.interfaces.parts.CoreTypesDisposer.withDetectDisposer$(CoreTypesDisposer.scala:63)
+2020-10-15 17:19:48,917 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.Core.withDetectDisposer(Core.scala:9)
+2020-10-15 17:19:48,918 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.parts.CoreTypesBindable$BindableImpl.$anonfun$trigger$1(CoreTypesBindable.scala:191)
+2020-10-15 17:19:48,918 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.interfaces.parts.CoreTypesGetter.withGetter(CoreTypesGetter.scala:12)
+2020-10-15 17:19:48,919 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.interfaces.parts.CoreTypesGetter.withGetter$(CoreTypesGetter.scala:10)
+2020-10-15 17:19:48,919 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.Core.withGetter(Core.scala:9)
+2020-10-15 17:19:48,919 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.parts.CoreTypesBindable$BindableImpl.trigger(CoreTypesBindable.scala:190)
+2020-10-15 17:19:48,920 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.interfaces.parts.CoreTypesEvent$EventLike.$minus$minus$greater(CoreTypesEvent.scala:25)
+2020-10-15 17:19:48,920 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.interfaces.parts.CoreTypesEvent$EventLike.$minus$minus$greater$(CoreTypesEvent.scala:25)
+2020-10-15 17:19:48,921 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.parts.CoreTypesBindable$BindableImpl.$minus$minus$greater(CoreTypesBindable.scala:24)
+2020-10-15 17:19:48,921 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.interfaces.parts.CoreTypesEvent$EventLikeAlternateSignature.$minus$minus$greater(CoreTypesEvent.scala:16)
+2020-10-15 17:19:48,922 [ERROR] in scala-execution-context-global-44 - 	at com.jpro.meta.stream.FXAppSerializer.$anonfun$new$5(FXAppSerializer.scala:39)
+2020-10-15 17:19:48,922 [ERROR] in scala-execution-context-global-44 - 	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+2020-10-15 17:19:48,923 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.parts.CoreTimeEvent.$anonfun$runWhenever$2(CoreTimeEvent.scala:125)
+2020-10-15 17:19:48,923 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.parts.CoreTimeEvent.$anonfun$runWhenever$2$adapted(CoreTimeEvent.scala:125)
+2020-10-15 17:19:48,924 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.parts.CoreTypesBindable$BindableImpl.$anonfun$triggerOnChange$3(CoreTypesBindable.scala:208)
+2020-10-15 17:19:48,924 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.parts.CoreScheduler.runSchedulerImpl(CoreScheduler.scala:73)
+2020-10-15 17:19:48,925 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.parts.CoreScheduler.runSchedulerImpl$(CoreScheduler.scala:52)
+2020-10-15 17:19:48,925 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.Core.runSchedulerImpl(Core.scala:9)
+2020-10-15 17:19:48,926 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.parts.CoreScheduler.tryStartSchedulerStop(CoreScheduler.scala:44)
+2020-10-15 17:19:48,926 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.parts.CoreScheduler.tryStartSchedulerStop$(CoreScheduler.scala:42)
+2020-10-15 17:19:48,927 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.Core.tryStartSchedulerStop(Core.scala:9)
+2020-10-15 17:19:48,927 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.interfaces.parts.CoreTypesEvent$IEventEmitter.emit(CoreTypesEvent.scala:64)
+2020-10-15 17:19:48,927 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.interfaces.parts.CoreTypesEvent$IEventEmitter.emit$(CoreTypesEvent.scala:64)
+2020-10-15 17:19:48,928 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.parts.CoreTypesBindable$BindableImpl.emit(CoreTypesBindable.scala:24)
+2020-10-15 17:19:48,928 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.interfaces.parts.CoreTypesEvent$IEventEmitter.emit$mcZ$sp(CoreTypesEvent.scala:64)
+2020-10-15 17:19:48,929 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.interfaces.parts.CoreTypesEvent$IEventEmitter.emit$mcZ$sp$(CoreTypesEvent.scala:64)
+2020-10-15 17:19:48,929 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.parts.CoreTypesBindable$BindableImpl.emit$mcZ$sp(CoreTypesBindable.scala:24)
+2020-10-15 17:19:48,929 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.parts.CoreTypesBindable$BindableImpl$mcZ$sp.setValue$mcZ$sp(CoreTypesBindable.scala:103)
+2020-10-15 17:19:48,930 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.parts.CoreTypesBindable$BindableImpl$mcZ$sp.setValue$mcZ$sp(CoreTypesBindable.scala:88)
+2020-10-15 17:19:48,930 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.parts.CoreTypesBindable$BindableImpl$mcZ$sp.setValue(CoreTypesBindable.scala:88)
+2020-10-15 17:19:48,931 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.parts.CoreTypesBindable$BindableImpl$mcZ$sp.setValue(CoreTypesBindable.scala:24)
+2020-10-15 17:19:48,931 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.interfaces.parts.CoreTypesBindable$SOBindableAssign.$colon$eq(CoreTypesBindable.scala:150)
+2020-10-15 17:19:48,932 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.interfaces.parts.CoreTypesBindable$SOBindableAssign.$colon$eq$(CoreTypesBindable.scala:149)
+2020-10-15 17:19:48,932 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.parts.CoreTypesBindable$BindableImpl.$colon$eq(CoreTypesBindable.scala:24)
+2020-10-15 17:19:48,932 [ERROR] in scala-execution-context-global-44 - 	at com.jpro.internal.communicator.ViewImpl.$anonfun$new$1(ViewImpl.scala:56)
+2020-10-15 17:19:48,933 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.parts.CoreTimeEvent.$anonfun$runAsAnimation$1(CoreTimeEvent.scala:56)
+2020-10-15 17:19:48,935 [ERROR] in scala-execution-context-global-44 - 	at simplefx.cores.standard.parts.CoreTimeEvent$$anon$2.handle(CoreTimeEvent.scala:42)
+2020-10-15 17:19:48,937 [ERROR] in scala-execution-context-global-44 - 	at javafx.animation.AnimationTimer$AnimationTimerReceiver.lambda$handle$490(AnimationTimer.java:57)
+2020-10-15 17:19:48,937 [ERROR] in scala-execution-context-global-44 - 	at java.security.AccessController.doPrivileged(Native Method)
+2020-10-15 17:19:48,938 [ERROR] in scala-execution-context-global-44 - 	at javafx.animation.AnimationTimer$AnimationTimerReceiver.handle(AnimationTimer.java:56)
+2020-10-15 17:19:48,938 [ERROR] in scala-execution-context-global-44 - 	at com.sun.scenario.animation.AbstractMasterTimer.timePulseImpl(AbstractMasterTimer.java:357)
+2020-10-15 17:19:48,939 [ERROR] in scala-execution-context-global-44 - 	at com.sun.scenario.animation.AbstractMasterTimer$MainLoop.run(AbstractMasterTimer.java:267)
+2020-10-15 17:19:48,939 [ERROR] in scala-execution-context-global-44 - 	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:514)
+2020-10-15 17:19:48,940 [ERROR] in scala-execution-context-global-44 - 	at com.sun.javafx.tk.quantum.QuantumToolkit.pulse(QuantumToolkit.java:498)
+2020-10-15 17:19:48,944 [ERROR] in scala-execution-context-global-44 - 	at com.sun.javafx.tk.quantum.QuantumToolkit.pulseFromQueue(QuantumToolkit.java:491)
+2020-10-15 17:19:48,944 [ERROR] in scala-execution-context-global-44 - 	at com.sun.javafx.tk.quantum.QuantumToolkit.lambda$runToolkit$408(QuantumToolkit.java:319)
+2020-10-15 17:19:48,945 [ERROR] in scala-execution-context-global-44 - 	at com.sun.glass.ui.monocle.RunnableProcessor.runLoop(RunnableProcessor.java:92)
+2020-10-15 17:19:48,945 [ERROR] in scala-execution-context-global-44 - 	at com.sun.glass.ui.monocle.RunnableProcessor.run(RunnableProcessor.java:51)
+2020-10-15 17:19:48,946 [ERROR] in scala-execution-context-global-44 - 	at java.lang.Thread.run(Thread.java:748)
+2020-10-15 17:19:49,962 [INFO] in scala-execution-context-global-44 - [info] c.j.m.s.Util$ - WORKAROUND! setting XY for Window because current XY is NaN
+2020-10-15 17:20:50,833 [INFO] in scala-execution-context-global-31 - [info] c.j.i.s.Initializer$ - redirected OUT / ERR
+2020-10-15 17:20:50,834 [INFO] in scala-execution-context-global-31 - [info] c.j.i.s.Initializer$ - installed SLF4JBridge
+2020-10-15 17:20:50,834 [INFO] in scala-execution-context-global-31 - [info] c.j.i.s.MonocleInitializer$ - screen: null
+2020-10-15 17:20:50,834 [INFO] in scala-execution-context-global-31 - Warning: Quantum will not submit render jobs, nothing should draw
+2020-10-15 17:20:50,835 [INFO] in scala-execution-context-global-31 - [info] c.j.i.s.Initializer$ - finished init!
+2020-10-15 17:20:50,860 [INFO] in scala-execution-context-global-31 - [info] c.j.i.s.Initializer$ - JavaFX version: 8.0.211-b10
+2020-10-15 17:20:50,903 [INFO] in scala-execution-context-global-31 - [info] c.j.i.c.m.DynamicDataModel - Started Monitoring chart data...
+2020-10-15 17:20:50,961 [INFO] in scala-execution-context-global-31 - [info] c.j.i.c.m.ChartJSONImExporter - Nothing to import
+2020-10-15 17:20:51,300 [INFO] in scala-execution-context-global-31 - [info] play.api.Play - Application started (Prod)
+2020-10-15 17:20:52,263 [INFO] in scala-execution-context-global-31 - [info] p.c.s.AkkaHttpServer - Listening for HTTP on /0:0:0:0:0:0:0:0:8080
+2020-10-15 17:20:53,455 [INFO] in scala-execution-context-global-31 - [info] c.jpro - application requested: 0!default
+2020-10-15 17:20:53,666 [INFO] in scala-execution-context-global-31 - [info] c.jpro - Creating Application: 0!default
+2020-10-15 17:20:53,671 [INFO] in scala-execution-context-global-31 - [info] c.jpro - remoteAddress 0:0:0:0:0:0:0:1
+2020-10-15 17:20:53,671 [INFO] in scala-execution-context-global-31 - [info] c.jpro - host          localhost:8080
+2020-10-15 17:20:53,671 [INFO] in scala-execution-context-global-31 - [info] c.jpro - uri           /app/0!default
+2020-10-15 17:20:54,376 [ERROR] in scala-execution-context-global-31 - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2020-10-15 17:20:54,376 [ERROR] in scala-execution-context-global-31 - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2020-10-15 17:20:54,377 [ERROR] in scala-execution-context-global-31 - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2020-10-15 17:20:54,487 [INFO] in scala-execution-context-global-31 - [warn] javafx.css - Resource "/styles/Styles.css" not found.
+2020-10-15 17:20:54,739 [INFO] in scala-execution-context-global-31 - [info] c.j.i.s.ViewSerializerActor - appdef: AppByMain(default,com.mycompany.nats.fx.listener.avro.MainApp,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/default,1536.0,722.0,false,ru-UA,List(ru-UA, ru, uk-UA, en-GB, uk, en-US, en),Map())out: Actor[akka://application/system/StreamSupervisor-0/flow-6-2-actorRefSource#158357534]
+2020-10-15 17:20:57,182 [INFO] in scala-execution-context-global-43 - [info] com.jpro.JS - received msg: new MainID: 1004 userid: 53020196
+2020-10-15 17:21:18,415 [INFO] in scala-execution-context-global-43 - {favorite_number=17, favorite_color=null, name=Denys}
+2020-10-15 17:21:58,388 [INFO] in scala-execution-context-global-43 - {favorite_number=17, favorite_color=null, name=Denys}
+2020-10-15 17:38:15,856 [INFO] in scala-execution-context-global-43 - [info] c.jpro - application requested: 0!default
+2020-10-15 17:38:15,857 [INFO] in scala-execution-context-global-31 - [info] c.jpro - Creating Application: 0!default
+2020-10-15 17:38:15,858 [INFO] in scala-execution-context-global-31 - [info] c.jpro - remoteAddress 0:0:0:0:0:0:0:1
+2020-10-15 17:38:15,858 [INFO] in scala-execution-context-global-31 - [info] c.jpro - host          localhost:8080
+2020-10-15 17:38:15,858 [INFO] in scala-execution-context-global-31 - [info] c.jpro - uri           /app/0!default
+2020-10-15 17:38:15,899 [INFO] in scala-execution-context-global-31 - [info] c.j.i.s.ViewSerializerActor - appdef: AppByMain(default,com.mycompany.nats.fx.listener.avro.MainApp,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/default,1536.0,722.0,false,ru-UA,List(ru-UA, ru, uk-UA, en-GB, uk, en-US, en),Map())out: Actor[akka://application/system/StreamSupervisor-0/flow-9-2-actorRefSource#-21010084]
+2020-10-15 17:38:16,979 [INFO] in scala-execution-context-global-31 - [info] com.jpro.JS - received msg: new MainID: 1004 userid: 1112045951
+2020-10-15 17:38:18,275 [INFO] in scala-execution-context-global-58 - [info] c.jpro - application requested: 0!default
+2020-10-15 17:38:18,275 [INFO] in scala-execution-context-global-58 - [info] c.jpro - Creating Application: 0!default
+2020-10-15 17:38:18,275 [INFO] in scala-execution-context-global-58 - [info] c.jpro - remoteAddress 0:0:0:0:0:0:0:1
+2020-10-15 17:38:18,276 [INFO] in scala-execution-context-global-58 - [info] c.jpro - host          localhost:8080
+2020-10-15 17:38:18,276 [INFO] in scala-execution-context-global-58 - [info] c.jpro - uri           /app/0!default
+2020-10-15 17:38:18,330 [INFO] in scala-execution-context-global-58 - [info] c.j.i.s.ViewSerializerActor - appdef: AppByMain(default,com.mycompany.nats.fx.listener.avro.MainApp,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/default,1536.0,722.0,false,ru-UA,List(ru-UA, ru, uk-UA, en-GB, uk, en-US, en),Map())out: Actor[akka://application/system/StreamSupervisor-0/flow-13-2-actorRefSource#568047299]
+2020-10-15 17:38:18,417 [INFO] in scala-execution-context-global-58 - [info] com.jpro.JS - received msg: new MainID: 1004 userid: 1943084910
+2020-10-15 17:38:21,197 [INFO] in scala-execution-context-global-43 - [info] c.j.i.s.ViewInfo$ - 
+2020-10-15 17:38:21,197 [INFO] in scala-execution-context-global-43 - [info] c.j.i.s.ViewInfo$ - Application closed:
+2020-10-15 17:38:21,202 [INFO] in scala-execution-context-global-43 - [info] c.j.i.s.ViewInfo$ - startTime      : Thu Oct 15 17:38:21 EEST 2020      
+2020-10-15 17:38:21,202 [INFO] in scala-execution-context-global-43 - [info] c.j.i.s.ViewInfo$ - averageLatency : 00:00:00.154 
+2020-10-15 17:38:21,202 [INFO] in scala-execution-context-global-43 - [info] c.j.i.s.ViewInfo$ - averageJitter  : 00:00:00.230  
+2020-10-15 17:38:21,203 [INFO] in scala-execution-context-global-43 - [info] c.j.i.s.ViewInfo$ - framerateServer: 00:00:00.000
+2020-10-15 17:38:21,203 [INFO] in scala-execution-context-global-43 - [info] c.j.i.s.ViewInfo$ - framerateClient: 00:00:00.000
+2020-10-15 17:38:21,203 [INFO] in scala-execution-context-global-43 - [info] c.j.i.s.ViewInfo$ - raw            : 47459
+2020-10-15 17:38:21,203 [INFO] in scala-execution-context-global-43 - [info] c.j.i.s.ViewInfo$ - zipped         : 8628
+2020-10-15 17:38:21,204 [INFO] in scala-execution-context-global-43 - [info] c.j.i.s.ViewInfo$ - 
+2020-10-15 17:38:27,944 [INFO] in scala-execution-context-global-58 - [info] c.j.i.c.InstanceImpl - closing window!
+2020-10-15 17:38:35,939 [INFO] in scala-execution-context-global-58 - {favorite_number=17, favorite_color=null, name=Denys}
+2020-10-15 17:38:35,940 [INFO] in scala-execution-context-global-58 - {favorite_number=17, favorite_color=null, name=Denys}
+2020-10-15 22:11:05,919 [INFO] in scala-execution-context-global-31 - [info] c.j.i.s.Initializer$ - redirected OUT / ERR
+2020-10-15 22:11:05,920 [INFO] in scala-execution-context-global-31 - [info] c.j.i.s.Initializer$ - installed SLF4JBridge
+2020-10-15 22:11:05,920 [INFO] in scala-execution-context-global-31 - [info] c.j.i.s.MonocleInitializer$ - screen: null
+2020-10-15 22:11:05,920 [INFO] in scala-execution-context-global-31 - Warning: Quantum will not submit render jobs, nothing should draw
+2020-10-15 22:11:05,920 [INFO] in scala-execution-context-global-31 - [info] c.j.i.s.Initializer$ - finished init!
+2020-10-15 22:11:05,954 [INFO] in scala-execution-context-global-31 - [info] c.j.i.s.Initializer$ - JavaFX version: 8.0.211-b10
+2020-10-15 22:11:06,020 [INFO] in scala-execution-context-global-31 - [info] c.j.i.c.m.DynamicDataModel - Started Monitoring chart data...
+2020-10-15 22:11:06,531 [INFO] in scala-execution-context-global-31 - [info] c.j.i.c.m.ChartJSONImExporter - Imported chart data Thu Oct 15 22:11:05 EEST 2020
+2020-10-15 22:11:07,719 [INFO] in scala-execution-context-global-31 - [info] play.api.Play - Application started (Prod)
+2020-10-15 22:11:10,660 [INFO] in scala-execution-context-global-31 - [info] p.c.s.AkkaHttpServer - Listening for HTTP on /0:0:0:0:0:0:0:0:8080
+2020-10-15 22:11:12,419 [INFO] in scala-execution-context-global-31 - [info] c.jpro - application requested: 0!default
+2020-10-15 22:11:12,688 [INFO] in scala-execution-context-global-31 - [info] c.jpro - Creating Application: 0!default
+2020-10-15 22:11:12,696 [INFO] in scala-execution-context-global-31 - [info] c.jpro - remoteAddress 0:0:0:0:0:0:0:1
+2020-10-15 22:11:12,696 [INFO] in scala-execution-context-global-31 - [info] c.jpro - host          localhost:8080
+2020-10-15 22:11:12,697 [INFO] in scala-execution-context-global-31 - [info] c.jpro - uri           /app/0!default
+2020-10-15 22:11:13,872 [ERROR] in scala-execution-context-global-31 - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2020-10-15 22:11:13,873 [ERROR] in scala-execution-context-global-31 - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2020-10-15 22:11:13,873 [ERROR] in scala-execution-context-global-31 - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2020-10-15 22:11:13,990 [INFO] in scala-execution-context-global-31 - [warn] javafx.css - Resource "/styles/Styles.css" not found.
+2020-10-15 22:11:14,267 [INFO] in scala-execution-context-global-31 - [info] c.j.i.s.ViewSerializerActor - appdef: AppByMain(default,com.mycompany.nats.fx.listener.avro.MainApp,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/default,1536.0,722.0,false,ru-UA,List(ru-UA, ru, uk-UA, en-GB, uk, en-US, en),Map())out: Actor[akka://application/system/StreamSupervisor-0/flow-6-2-actorRefSource#891562680]
+2020-10-15 22:11:15,671 [INFO] in scala-execution-context-global-31 - [info] com.jpro.JS - received msg: new MainID: 1004 userid: 253975879
+2020-10-15 22:13:19,345 [INFO] in scala-execution-context-global-31 - [info] c.j.i.s.ViewInfo$ - 
+2020-10-15 22:13:19,346 [INFO] in scala-execution-context-global-31 - [info] c.j.i.s.ViewInfo$ - Application closed:
+2020-10-15 22:13:19,348 [INFO] in scala-execution-context-global-43 - [info] c.j.i.s.ViewInfo$ - startTime      : Thu Oct 15 22:13:19 EEST 2020      
+2020-10-15 22:13:19,351 [INFO] in scala-execution-context-global-43 - [info] c.j.i.s.ViewInfo$ - averageLatency : 00:00:00.017 
+2020-10-15 22:13:19,351 [INFO] in scala-execution-context-global-43 - [info] c.j.i.s.ViewInfo$ - averageJitter  : 00:00:00.000  
+2020-10-15 22:13:19,351 [INFO] in scala-execution-context-global-43 - [info] c.j.i.s.ViewInfo$ - framerateServer: 00:00:00.000
+2020-10-15 22:13:19,352 [INFO] in scala-execution-context-global-43 - [info] c.j.i.s.ViewInfo$ - framerateClient: 00:00:00.000
+2020-10-15 22:13:19,352 [INFO] in scala-execution-context-global-43 - [info] c.j.i.s.ViewInfo$ - raw            : 396739
+2020-10-15 22:13:19,352 [INFO] in scala-execution-context-global-43 - [info] c.j.i.s.ViewInfo$ - zipped         : 96906
+2020-10-15 22:13:19,353 [INFO] in scala-execution-context-global-43 - [info] c.j.i.s.ViewInfo$ - 
+2020-10-15 22:13:19,420 [INFO] in scala-execution-context-global-43 - [info] c.jpro - application requested: 0!default
+2020-10-15 22:13:19,421 [INFO] in scala-execution-context-global-43 - [info] c.jpro - Creating Application: 0!default
+2020-10-15 22:13:19,422 [INFO] in scala-execution-context-global-43 - [info] c.jpro - remoteAddress 0:0:0:0:0:0:0:1
+2020-10-15 22:13:19,422 [INFO] in scala-execution-context-global-43 - [info] c.jpro - host          localhost:8080
+2020-10-15 22:13:19,422 [INFO] in scala-execution-context-global-43 - [info] c.jpro - uri           /app/0!default
+2020-10-15 22:13:19,506 [INFO] in scala-execution-context-global-56 - [info] c.j.i.s.ViewSerializerActor - appdef: AppByMain(default,com.mycompany.nats.fx.listener.avro.MainApp,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/default,1536.0,722.0,false,ru-UA,List(ru-UA, ru, uk-UA, en-GB, uk, en-US, en),Map())out: Actor[akka://application/system/StreamSupervisor-0/flow-12-2-actorRefSource#886023269]
+2020-10-15 22:13:19,641 [INFO] in scala-execution-context-global-31 - [info] com.jpro.JS - received msg: new MainID: 1004 userid: 1597979590
+2020-10-15 22:13:23,811 [INFO] in scala-execution-context-global-31 - [warn] c.j.m.t.SceneInputListener - Unknown Keycode: 191
+2020-10-15 22:13:23,890 [INFO] in scala-execution-context-global-56 - [warn] c.j.m.t.SceneInputListener - Unknown Keycode: 191
+2020-10-15 22:13:35,952 [INFO] in scala-execution-context-global-56 - {favorite_number=17, favorite_color=null, name=Denys}
+2020-10-15 22:14:05,951 [INFO] in scala-execution-context-global-56 - [info] c.j.i.c.InstanceImpl - closing window!
+2020-10-15 22:14:06,567 [INFO] in scala-execution-context-global-56 - {favorite_number=17, favorite_color=null, name=Denys}
+2020-10-15 22:14:38,935 [INFO] in scala-execution-context-global-56 - {favorite_number=17, favorite_color=null, name=Denys}
+2020-10-15 22:14:54,905 [INFO] in scala-execution-context-global-56 - [info] c.jpro - application requested: 0!default
+2020-10-15 22:14:54,913 [INFO] in scala-execution-context-global-56 - [info] c.jpro - Creating Application: 0!default
+2020-10-15 22:14:54,914 [INFO] in scala-execution-context-global-56 - [info] c.jpro - remoteAddress 0:0:0:0:0:0:0:1
+2020-10-15 22:14:54,914 [INFO] in scala-execution-context-global-56 - [info] c.jpro - host          localhost:8080
+2020-10-15 22:14:54,915 [INFO] in scala-execution-context-global-56 - [info] c.jpro - uri           /app/0!default
+2020-10-15 22:14:55,096 [INFO] in scala-execution-context-global-56 - [info] c.j.i.s.ViewSerializerActor - appdef: AppByMain(default,com.mycompany.nats.fx.listener.avro.MainApp,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/default,1536.0,722.0,false,ru-RU,List(ru-RU, ru, en-US, en),Map(Idea-99972b2f -> b7eaed3e-45b4-4025-9d7c-cbe2af4c658a))out: Actor[akka://application/system/StreamSupervisor-0/flow-22-2-actorRefSource#-1300993970]
+2020-10-15 22:14:55,365 [INFO] in scala-execution-context-global-31 - [info] com.jpro.JS - received msg: new MainID: 1004 userid: 1321659050
+2020-10-15 22:15:01,426 [INFO] in scala-execution-context-global-56 - [info] c.j.i.s.ViewInfo$ - 
+2020-10-15 22:15:01,430 [INFO] in scala-execution-context-global-56 - [info] c.j.i.s.ViewInfo$ - Application closed:
+2020-10-15 22:15:01,431 [INFO] in scala-execution-context-global-56 - [info] c.j.i.s.ViewInfo$ - startTime      : Thu Oct 15 22:15:01 EEST 2020      
+2020-10-15 22:15:01,431 [INFO] in scala-execution-context-global-56 - [info] c.j.i.s.ViewInfo$ - averageLatency : 00:00:00.070 
+2020-10-15 22:15:01,433 [INFO] in scala-execution-context-global-56 - [info] c.j.i.s.ViewInfo$ - averageJitter  : 00:00:00.076  
+2020-10-15 22:15:01,433 [INFO] in scala-execution-context-global-56 - [info] c.j.i.s.ViewInfo$ - framerateServer: 00:00:00.000
+2020-10-15 22:15:01,434 [INFO] in scala-execution-context-global-56 - [info] c.j.i.s.ViewInfo$ - framerateClient: 00:00:00.000
+2020-10-15 22:15:01,436 [INFO] in scala-execution-context-global-56 - [info] c.j.i.s.ViewInfo$ - raw            : 70547
+2020-10-15 22:15:01,436 [INFO] in scala-execution-context-global-56 - [info] c.j.i.s.ViewInfo$ - zipped         : 14006
+2020-10-15 22:15:01,437 [INFO] in scala-execution-context-global-56 - [info] c.j.i.s.ViewInfo$ - 
+2020-10-15 22:15:01,454 [INFO] in scala-execution-context-global-56 - [info] c.jpro - application requested: 1140680079!default
+2020-10-15 22:15:01,455 [INFO] in scala-execution-context-global-56 - [info] c.jpro - Creating Application: 1140680079!default
+2020-10-15 22:15:01,455 [INFO] in scala-execution-context-global-56 - [info] c.jpro - remoteAddress 0:0:0:0:0:0:0:1
+2020-10-15 22:15:01,457 [INFO] in scala-execution-context-global-56 - [info] c.jpro - host          localhost:8080
+2020-10-15 22:15:01,457 [INFO] in scala-execution-context-global-56 - [info] c.jpro - uri           /app/1140680079!default
+2020-10-15 22:15:01,753 [INFO] in scala-execution-context-global-56 - [info] c.jpro - application requested: 0!default
+2020-10-15 22:15:01,756 [INFO] in scala-execution-context-global-56 - [info] c.jpro - Creating Application: 0!default
+2020-10-15 22:15:01,757 [INFO] in scala-execution-context-global-56 - [info] c.jpro - remoteAddress 0:0:0:0:0:0:0:1
+2020-10-15 22:15:01,757 [INFO] in scala-execution-context-global-56 - [info] c.jpro - host          localhost:8080
+2020-10-15 22:15:01,758 [INFO] in scala-execution-context-global-56 - [info] c.jpro - uri           /app/0!default
+2020-10-15 22:15:01,892 [INFO] in scala-execution-context-global-56 - [info] c.j.i.s.ViewSerializerActor - appdef: AppByMain(default,com.mycompany.nats.fx.listener.avro.MainApp,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/default,1536.0,722.0,false,ru-RU,List(ru-RU, ru, en-US, en),Map(Idea-99972b2f -> b7eaed3e-45b4-4025-9d7c-cbe2af4c658a))out: Actor[akka://application/system/StreamSupervisor-0/flow-29-2-actorRefSource#-704722987]
+2020-10-15 22:15:02,145 [INFO] in scala-execution-context-global-56 - [info] com.jpro.JS - received msg: new MainID: 1004 userid: 226490680
+2020-10-15 22:15:03,865 [INFO] in scala-execution-context-global-31 - [warn] c.j.m.t.SceneInputListener - Unknown Keycode: 191
+2020-10-15 22:15:03,963 [INFO] in scala-execution-context-global-31 - [warn] c.j.m.t.SceneInputListener - Unknown Keycode: 191
+2020-10-15 22:15:08,530 [INFO] in scala-execution-context-global-56 - [info] c.j.i.c.InstanceImpl - closing window!
+2020-10-15 22:15:13,830 [INFO] in scala-execution-context-global-56 - {favorite_number=17, favorite_color=null, name=Denys}
+2020-10-15 22:15:13,832 [INFO] in scala-execution-context-global-56 - {favorite_number=17, favorite_color=null, name=Denys}
+2020-10-15 22:34:46,355 [INFO] in scala-execution-context-global-31 - [info] c.jpro - application requested: 0!default
+2020-10-15 22:34:46,366 [INFO] in scala-execution-context-global-31 - [info] c.jpro - Creating Application: 0!default
+2020-10-15 22:34:46,366 [INFO] in scala-execution-context-global-31 - [info] c.jpro - remoteAddress 0:0:0:0:0:0:0:1
+2020-10-15 22:34:46,367 [INFO] in scala-execution-context-global-31 - [info] c.jpro - host          localhost:8080
+2020-10-15 22:34:46,368 [INFO] in scala-execution-context-global-31 - [info] c.jpro - uri           /app/0!default
+2020-10-15 22:34:46,560 [INFO] in scala-execution-context-global-31 - [info] c.j.i.s.ViewSerializerActor - appdef: AppByMain(default,com.mycompany.nats.fx.listener.avro.MainApp,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/default,1536.0,722.0,false,ru-UA,List(ru-UA, ru, uk-UA, en-GB, uk, en-US, en),Map())out: Actor[akka://application/system/StreamSupervisor-0/flow-36-2-actorRefSource#437932126]
+2020-10-15 22:34:46,877 [INFO] in scala-execution-context-global-84 - [info] com.jpro.JS - received msg: new MainID: 1004 userid: 515900776
