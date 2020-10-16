@@ -1,0 +1,48 @@
+2020-10-15 22:34:55,095 [ERROR] from akka.io.TcpListener in application-akka.actor.default-dispatcher-3 - Bind failed for TCP channel on endpoint [/0.0.0.0:8080]
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at akka.io.TcpListener.liftedTree1$1(TcpListener.scala:55)
+	at akka.io.TcpListener.<init>(TcpListener.scala:52)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at akka.util.Reflect$.instantiate(Reflect.scala:66)
+	at akka.actor.ArgsReflectConstructor.produce(IndirectActorProducer.scala:96)
+	at akka.actor.Props.newActor(Props.scala:212)
+	at akka.actor.ActorCell.newActor(ActorCell.scala:624)
+	at akka.actor.ActorCell.create(ActorCell.scala:650)
+	at akka.actor.ActorCell.invokeAll$1(ActorCell.scala:523)
+	at akka.actor.ActorCell.systemInvoke(ActorCell.scala:545)
+	at akka.dispatch.Mailbox.processAllSystemMessages(Mailbox.scala:283)
+	at akka.dispatch.Mailbox.run(Mailbox.scala:224)
+	at akka.dispatch.Mailbox.exec(Mailbox.scala:235)
+	at akka.dispatch.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)
+	at akka.dispatch.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)
+	at akka.dispatch.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)
+	at akka.dispatch.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)
+2020-10-15 22:34:55,125 [WARN] from com.jpro.internal.server.Initializer$ in Thread-0 - JPro prevent System.exit
+2020-10-15 22:36:27,988 [WARN] from javafx.css in JavaFX Application Thread - Resource "/styles/Styles.css" not found.
+2020-10-15 22:37:32,667 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:37:32,782 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:37:52,401 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:37:52,500 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:37:54,836 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:37:54,988 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:39:55,636 [WARN] from javafx.css in JavaFX Application Thread - Resource "/styles/Styles.css" not found.
+2020-10-15 22:41:49,447 [WARN] from javafx.css in JavaFX Application Thread - Resource "/styles/Styles.css" not found.
+2020-10-15 22:42:54,811 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:42:54,909 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:42:58,356 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:42:58,456 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:43:03,040 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:43:03,156 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:43:40,134 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:43:40,233 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:43:44,027 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:43:44,142 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-16 09:52:44,071 [WARN] from javafx.css in JavaFX Application Thread - Resource "/styles/Styles.css" not found.

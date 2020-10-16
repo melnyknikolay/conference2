@@ -1,0 +1,276 @@
+2020-10-15 22:34:50,805 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-4 - Slf4jLogger started
+2020-10-15 22:34:51,589 [INFO] from com.jpro.activity in Thread-0 - Starting the server
+2020-10-15 22:34:51,590 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 -  *** Starting JPro: https://www.jpro.one/ ***
+2020-10-15 22:34:51,590 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - OS: Windows 10
+2020-10-15 22:34:51,611 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - JPro: 2019.1.0
+2020-10-15 22:34:51,611 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - Java version: 1.8.0_211
+2020-10-15 22:34:51,611 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - JVM: 1.8.0_211 Oracle Corporation
+2020-10-15 22:34:51,642 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - redirected OUT / ERR
+2020-10-15 22:34:51,643 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - installed SLF4JBridge
+2020-10-15 22:34:51,678 [INFO] from com.jpro.internal.server.MonocleInitializer$ in Thread-0 - screen: null
+2020-10-15 22:34:52,484 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - finished init!
+2020-10-15 22:34:52,557 [INFO] from com.jpro.internal.server.Initializer$ in JavaFX Application Thread - JavaFX version: 8.0.211-b10
+2020-10-15 22:34:52,627 [INFO] from com.jpro.internal.chart.model.DynamicDataModel in JavaFX Application Thread - Started Monitoring chart data...
+2020-10-15 22:34:52,723 [INFO] from com.jpro.internal.chart.model.ChartJSONImExporter in JavaFX Application Thread - Nothing to import
+2020-10-15 22:34:53,281 [INFO] from play.api.Play in Thread-0 - Application started (Prod)
+2020-10-15 22:34:55,095 [ERROR] from akka.io.TcpListener in application-akka.actor.default-dispatcher-3 - Bind failed for TCP channel on endpoint [/0.0.0.0:8080]
+java.net.BindException: Address already in use: bind
+	at sun.nio.ch.Net.bind0(Native Method)
+	at sun.nio.ch.Net.bind(Net.java:433)
+	at sun.nio.ch.Net.bind(Net.java:425)
+	at sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:223)
+	at sun.nio.ch.ServerSocketAdaptor.bind(ServerSocketAdaptor.java:74)
+	at akka.io.TcpListener.liftedTree1$1(TcpListener.scala:55)
+	at akka.io.TcpListener.<init>(TcpListener.scala:52)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at akka.util.Reflect$.instantiate(Reflect.scala:66)
+	at akka.actor.ArgsReflectConstructor.produce(IndirectActorProducer.scala:96)
+	at akka.actor.Props.newActor(Props.scala:212)
+	at akka.actor.ActorCell.newActor(ActorCell.scala:624)
+	at akka.actor.ActorCell.create(ActorCell.scala:650)
+	at akka.actor.ActorCell.invokeAll$1(ActorCell.scala:523)
+	at akka.actor.ActorCell.systemInvoke(ActorCell.scala:545)
+	at akka.dispatch.Mailbox.processAllSystemMessages(Mailbox.scala:283)
+	at akka.dispatch.Mailbox.run(Mailbox.scala:224)
+	at akka.dispatch.Mailbox.exec(Mailbox.scala:235)
+	at akka.dispatch.forkjoin.ForkJoinTask.doExec(ForkJoinTask.java:260)
+	at akka.dispatch.forkjoin.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1339)
+	at akka.dispatch.forkjoin.ForkJoinPool.runWorker(ForkJoinPool.java:1979)
+	at akka.dispatch.forkjoin.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:107)
+2020-10-15 22:34:55,125 [WARN] from com.jpro.internal.server.Initializer$ in Thread-0 - JPro prevent System.exit
+2020-10-15 22:36:21,193 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-2 - Slf4jLogger started
+2020-10-15 22:36:21,969 [INFO] from com.jpro.activity in Thread-0 - Starting the server
+2020-10-15 22:36:21,969 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 -  *** Starting JPro: https://www.jpro.one/ ***
+2020-10-15 22:36:21,969 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - OS: Windows 10
+2020-10-15 22:36:21,988 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - JPro: 2019.1.0
+2020-10-15 22:36:21,988 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - Java version: 1.8.0_211
+2020-10-15 22:36:21,988 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - JVM: 1.8.0_211 Oracle Corporation
+2020-10-15 22:36:22,026 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - redirected OUT / ERR
+2020-10-15 22:36:22,026 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - installed SLF4JBridge
+2020-10-15 22:36:22,063 [INFO] from com.jpro.internal.server.MonocleInitializer$ in Thread-0 - screen: null
+2020-10-15 22:36:22,848 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - finished init!
+2020-10-15 22:36:22,885 [INFO] from com.jpro.internal.server.Initializer$ in JavaFX Application Thread - JavaFX version: 8.0.211-b10
+2020-10-15 22:36:22,945 [INFO] from com.jpro.internal.chart.model.DynamicDataModel in JavaFX Application Thread - Started Monitoring chart data...
+2020-10-15 22:36:23,042 [INFO] from com.jpro.internal.chart.model.ChartJSONImExporter in JavaFX Application Thread - Nothing to import
+2020-10-15 22:36:23,503 [INFO] from play.api.Play in Thread-0 - Application started (Prod)
+2020-10-15 22:36:24,749 [INFO] from play.core.server.AkkaHttpServer in Thread-0 - Listening for HTTP on /0:0:0:0:0:0:0:0:8080
+2020-10-15 22:36:26,520 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-3 - application requested: 0!default
+2020-10-15 22:36:26,561 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-3 - Creating Application: 0!default
+2020-10-15 22:36:26,572 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-3 - remoteAddress 0:0:0:0:0:0:0:1
+2020-10-15 22:36:26,572 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-3 - host          localhost:8080
+2020-10-15 22:36:26,572 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-3 - uri           /app/0!default
+2020-10-15 22:36:27,988 [WARN] from javafx.css in JavaFX Application Thread - Resource "/styles/Styles.css" not found.
+2020-10-15 22:36:28,447 [INFO] from com.jpro.internal.server.ViewSerializerActor in JavaFX Application Thread - appdef: AppByMain(default,com.mycompany.mqttconsumerui.MainApp,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/default,1536.0,722.0,false,ru-UA,List(ru-UA, ru, uk-UA, en-GB, uk, en-US, en),Map())out: Actor[akka://application/system/StreamSupervisor-0/flow-6-2-actorRefSource#1179472048]
+2020-10-15 22:36:29,210 [INFO] from com.jpro.JS in JavaFX Application Thread - received msg: new MainID: 1162 userid: 282408521
+2020-10-15 22:37:32,667 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:37:32,782 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:37:44,626 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-9 - application requested: 713856924!default
+2020-10-15 22:37:44,627 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-9 - Creating Application: 713856924!default
+2020-10-15 22:37:44,628 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-9 - remoteAddress 0:0:0:0:0:0:0:1
+2020-10-15 22:37:44,628 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-9 - host          localhost:8080
+2020-10-15 22:37:44,628 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-9 - uri           /app/713856924!default
+2020-10-15 22:37:44,738 [INFO] from com.jpro.internal.server.ViewSerializerActor in JavaFX Application Thread - appdef: AppByID(713856924,Some(AppByMain(default,com.mycompany.mqttconsumerui.MainApp,None,NamedClassLoader(system),false))) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/default,1536.0,722.0,false,ru-RU,List(ru-RU, ru, en-US, en),Map(Idea-99972b2f -> b7eaed3e-45b4-4025-9d7c-cbe2af4c658a))out: Actor[akka://application/system/StreamSupervisor-0/flow-10-2-actorRefSource#-997102378]
+2020-10-15 22:37:44,942 [INFO] from com.jpro.JS in JavaFX Application Thread - received msg: new MainID: 1162 userid: 11019935
+2020-10-15 22:37:52,401 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:37:52,500 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:37:54,836 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:37:54,988 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:38:46,594 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2020-10-15 22:38:46,594 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - Application closed:
+2020-10-15 22:38:46,599 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - startTime      : Thu Oct 15 22:38:46 EEST 2020      
+2020-10-15 22:38:46,599 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageLatency : 00:00:00.017 
+2020-10-15 22:38:46,599 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageJitter  : 00:00:00.000  
+2020-10-15 22:38:46,601 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateServer: 00:00:00.000
+2020-10-15 22:38:46,602 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateClient: 00:00:00.000
+2020-10-15 22:38:46,602 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - raw            : 393658
+2020-10-15 22:38:46,602 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - zipped         : 106189
+2020-10-15 22:38:46,602 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2020-10-15 22:38:46,656 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-6 - application requested: 0!default
+2020-10-15 22:38:46,656 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-6 - Creating Application: 0!default
+2020-10-15 22:38:46,657 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-6 - remoteAddress 0:0:0:0:0:0:0:1
+2020-10-15 22:38:46,657 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-6 - host          localhost:8080
+2020-10-15 22:38:46,657 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-6 - uri           /app/0!default
+2020-10-15 22:38:46,739 [INFO] from com.jpro.internal.server.ViewSerializerActor in JavaFX Application Thread - appdef: AppByMain(default,com.mycompany.mqttconsumerui.MainApp,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/default,1536.0,722.0,false,ru-UA,List(ru-UA, ru, uk-UA, en-GB, uk, en-US, en),Map())out: Actor[akka://application/system/StreamSupervisor-0/flow-16-2-actorRefSource#1218854674]
+2020-10-15 22:38:46,879 [INFO] from com.jpro.JS in JavaFX Application Thread - received msg: new MainID: 1162 userid: 664312283
+2020-10-15 22:39:05,948 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2020-10-15 22:39:05,948 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - Application closed:
+2020-10-15 22:39:05,948 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - startTime      : Thu Oct 15 22:39:05 EEST 2020      
+2020-10-15 22:39:05,948 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageLatency : 00:00:00.018 
+2020-10-15 22:39:05,948 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageJitter  : 00:00:00.001  
+2020-10-15 22:39:05,948 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateServer: 00:00:00.000
+2020-10-15 22:39:05,948 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateClient: 00:00:00.000
+2020-10-15 22:39:05,948 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - raw            : 195994
+2020-10-15 22:39:05,948 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - zipped         : 50396
+2020-10-15 22:39:05,948 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2020-10-15 22:39:27,794 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2020-10-15 22:39:27,794 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - Application closed:
+2020-10-15 22:39:27,794 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - startTime      : Thu Oct 15 22:39:27 EEST 2020      
+2020-10-15 22:39:27,794 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageLatency : 00:00:00.018 
+2020-10-15 22:39:27,794 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageJitter  : 00:00:00.001  
+2020-10-15 22:39:27,794 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateServer: 00:00:00.000
+2020-10-15 22:39:27,794 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateClient: 00:00:00.000
+2020-10-15 22:39:27,794 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - raw            : 149818
+2020-10-15 22:39:27,794 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - zipped         : 32902
+2020-10-15 22:39:27,794 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2020-10-15 22:39:47,795 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-3 - Slf4jLogger started
+2020-10-15 22:39:49,232 [INFO] from com.jpro.activity in Thread-0 - Starting the server
+2020-10-15 22:39:49,233 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 -  *** Starting JPro: https://www.jpro.one/ ***
+2020-10-15 22:39:49,233 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - OS: Windows 10
+2020-10-15 22:39:49,275 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - JPro: 2019.1.0
+2020-10-15 22:39:49,275 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - Java version: 1.8.0_211
+2020-10-15 22:39:49,275 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - JVM: 1.8.0_211 Oracle Corporation
+2020-10-15 22:39:49,335 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - redirected OUT / ERR
+2020-10-15 22:39:49,336 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - installed SLF4JBridge
+2020-10-15 22:39:49,411 [INFO] from com.jpro.internal.server.MonocleInitializer$ in Thread-0 - screen: null
+2020-10-15 22:39:50,568 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - finished init!
+2020-10-15 22:39:50,620 [INFO] from com.jpro.internal.server.Initializer$ in JavaFX Application Thread - JavaFX version: 8.0.211-b10
+2020-10-15 22:39:50,694 [INFO] from com.jpro.internal.chart.model.DynamicDataModel in JavaFX Application Thread - Started Monitoring chart data...
+2020-10-15 22:39:51,218 [INFO] from com.jpro.internal.chart.model.ChartJSONImExporter in JavaFX Application Thread - Imported chart data Thu Oct 15 22:39:50 EEST 2020
+2020-10-15 22:39:51,709 [INFO] from play.api.Play in Thread-0 - Application started (Prod)
+2020-10-15 22:39:52,926 [INFO] from play.core.server.AkkaHttpServer in Thread-0 - Listening for HTTP on /0:0:0:0:0:0:0:0:8080
+2020-10-15 22:39:54,543 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-2 - application requested: 0!default
+2020-10-15 22:39:54,573 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-2 - Creating Application: 0!default
+2020-10-15 22:39:54,581 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-2 - remoteAddress 0:0:0:0:0:0:0:1
+2020-10-15 22:39:54,582 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-2 - host          localhost:8080
+2020-10-15 22:39:54,582 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-2 - uri           /app/0!default
+2020-10-15 22:39:55,636 [WARN] from javafx.css in JavaFX Application Thread - Resource "/styles/Styles.css" not found.
+2020-10-15 22:39:56,049 [INFO] from com.jpro.internal.server.ViewSerializerActor in JavaFX Application Thread - appdef: AppByMain(default,com.mycompany.mqttconsumerui.MainApp,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/default,1536.0,722.0,false,ru-UA,List(ru-UA, ru, uk-UA, en-GB, uk, en-US, en),Map())out: Actor[akka://application/system/StreamSupervisor-0/flow-6-2-actorRefSource#-1923061086]
+2020-10-15 22:39:56,811 [INFO] from com.jpro.JS in JavaFX Application Thread - received msg: new MainID: 1162 userid: 779422886
+2020-10-15 22:41:42,895 [INFO] from akka.event.slf4j.Slf4jLogger in application-akka.actor.default-dispatcher-4 - Slf4jLogger started
+2020-10-15 22:41:43,678 [INFO] from com.jpro.activity in Thread-0 - Starting the server
+2020-10-15 22:41:43,679 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 -  *** Starting JPro: https://www.jpro.one/ ***
+2020-10-15 22:41:43,679 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - OS: Windows 10
+2020-10-15 22:41:43,705 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - JPro: 2019.1.0
+2020-10-15 22:41:43,706 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - Java version: 1.8.0_211
+2020-10-15 22:41:43,706 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - JVM: 1.8.0_211 Oracle Corporation
+2020-10-15 22:41:43,745 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - redirected OUT / ERR
+2020-10-15 22:41:43,745 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - installed SLF4JBridge
+2020-10-15 22:41:43,790 [INFO] from com.jpro.internal.server.MonocleInitializer$ in Thread-0 - screen: null
+2020-10-15 22:41:44,643 [INFO] from com.jpro.internal.server.Initializer$ in Thread-0 - finished init!
+2020-10-15 22:41:44,681 [INFO] from com.jpro.internal.server.Initializer$ in JavaFX Application Thread - JavaFX version: 8.0.211-b10
+2020-10-15 22:41:44,749 [INFO] from com.jpro.internal.chart.model.DynamicDataModel in JavaFX Application Thread - Started Monitoring chart data...
+2020-10-15 22:41:45,150 [INFO] from com.jpro.internal.chart.model.ChartJSONImExporter in JavaFX Application Thread - Imported chart data Thu Oct 15 22:41:44 EEST 2020
+2020-10-15 22:41:45,547 [INFO] from play.api.Play in Thread-0 - Application started (Prod)
+2020-10-15 22:41:46,805 [INFO] from play.core.server.AkkaHttpServer in Thread-0 - Listening for HTTP on /0:0:0:0:0:0:0:0:8080
+2020-10-15 22:41:48,320 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - application requested: 0!default
+2020-10-15 22:41:48,352 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - Creating Application: 0!default
+2020-10-15 22:41:48,359 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - remoteAddress 0:0:0:0:0:0:0:1
+2020-10-15 22:41:48,359 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - host          localhost:8080
+2020-10-15 22:41:48,359 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - uri           /app/0!default
+2020-10-15 22:41:49,447 [WARN] from javafx.css in JavaFX Application Thread - Resource "/styles/Styles.css" not found.
+2020-10-15 22:41:49,946 [INFO] from com.jpro.internal.server.ViewSerializerActor in JavaFX Application Thread - appdef: AppByMain(default,com.mycompany.mqttconsumerui.MainApp,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/default,1536.0,722.0,false,ru-UA,List(ru-UA, ru, uk-UA, en-GB, uk, en-US, en),Map())out: Actor[akka://application/system/StreamSupervisor-0/flow-6-2-actorRefSource#486550779]
+2020-10-15 22:41:50,857 [INFO] from com.jpro.JS in JavaFX Application Thread - received msg: new MainID: 1162 userid: 1473339848
+2020-10-15 22:42:10,767 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - application requested: 0!default
+2020-10-15 22:42:10,769 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - Creating Application: 0!default
+2020-10-15 22:42:10,770 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - remoteAddress 0:0:0:0:0:0:0:1
+2020-10-15 22:42:10,770 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - host          localhost:8080
+2020-10-15 22:42:10,770 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - uri           /app/0!default
+2020-10-15 22:42:10,944 [INFO] from com.jpro.internal.server.ViewSerializerActor in JavaFX Application Thread - appdef: AppByMain(default,com.mycompany.mqttconsumerui.MainApp,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/default,1536.0,722.0,false,ru-RU,List(ru-RU, ru, en-US, en),Map(Idea-99972b2f -> b7eaed3e-45b4-4025-9d7c-cbe2af4c658a))out: Actor[akka://application/system/StreamSupervisor-0/flow-15-2-actorRefSource#-515698410]
+2020-10-15 22:42:11,337 [INFO] from com.jpro.JS in JavaFX Application Thread - received msg: new MainID: 1162 userid: 1482148654
+2020-10-15 22:42:41,837 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2020-10-15 22:42:41,838 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - Application closed:
+2020-10-15 22:42:41,839 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - startTime      : Thu Oct 15 22:42:41 EEST 2020      
+2020-10-15 22:42:41,839 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageLatency : 00:00:00.017 
+2020-10-15 22:42:41,839 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageJitter  : 00:00:00.000  
+2020-10-15 22:42:41,840 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateServer: 00:00:00.000
+2020-10-15 22:42:41,841 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateClient: 00:00:00.000
+2020-10-15 22:42:41,841 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - raw            : 202682
+2020-10-15 22:42:41,841 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - zipped         : 48316
+2020-10-15 22:42:41,841 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2020-10-15 22:42:41,903 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-8 - application requested: 0!default
+2020-10-15 22:42:41,904 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-8 - Creating Application: 0!default
+2020-10-15 22:42:41,905 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-8 - remoteAddress 0:0:0:0:0:0:0:1
+2020-10-15 22:42:41,905 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-8 - host          localhost:8080
+2020-10-15 22:42:41,905 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-8 - uri           /app/0!default
+2020-10-15 22:42:41,969 [INFO] from com.jpro.internal.server.ViewSerializerActor in JavaFX Application Thread - appdef: AppByMain(default,com.mycompany.mqttconsumerui.MainApp,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/default,1536.0,722.0,false,ru-UA,List(ru-UA, ru, uk-UA, en-GB, uk, en-US, en),Map())out: Actor[akka://application/system/StreamSupervisor-0/flow-20-2-actorRefSource#-872172527]
+2020-10-15 22:42:42,086 [INFO] from com.jpro.JS in JavaFX Application Thread - received msg: new MainID: 1162 userid: 431226069
+2020-10-15 22:42:47,092 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - application requested: 262247012!default
+2020-10-15 22:42:47,094 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - Creating Application: 262247012!default
+2020-10-15 22:42:47,094 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - remoteAddress 0:0:0:0:0:0:0:1
+2020-10-15 22:42:47,094 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - host          localhost:8080
+2020-10-15 22:42:47,094 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - uri           /app/262247012!default
+2020-10-15 22:42:47,098 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2020-10-15 22:42:47,098 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - Application closed:
+2020-10-15 22:42:47,099 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - startTime      : Thu Oct 15 22:42:47 EEST 2020      
+2020-10-15 22:42:47,100 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageLatency : 00:00:00.019 
+2020-10-15 22:42:47,100 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageJitter  : 00:00:00.000  
+2020-10-15 22:42:47,100 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateServer: 00:00:00.000
+2020-10-15 22:42:47,100 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateClient: 00:00:00.000
+2020-10-15 22:42:47,100 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - raw            : 178730
+2020-10-15 22:42:47,100 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - zipped         : 37090
+2020-10-15 22:42:47,100 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2020-10-15 22:42:47,260 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-16 - application requested: 0!default
+2020-10-15 22:42:47,261 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-16 - Creating Application: 0!default
+2020-10-15 22:42:47,262 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-16 - remoteAddress 0:0:0:0:0:0:0:1
+2020-10-15 22:42:47,262 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-16 - host          localhost:8080
+2020-10-15 22:42:47,263 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-16 - uri           /app/0!default
+2020-10-15 22:42:47,350 [INFO] from com.jpro.internal.server.ViewSerializerActor in JavaFX Application Thread - appdef: AppByMain(default,com.mycompany.mqttconsumerui.MainApp,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/default,805.0,466.0,false,ru-RU,List(ru-RU, ru, en-US, en),Map(Idea-99972b2f -> b7eaed3e-45b4-4025-9d7c-cbe2af4c658a))out: Actor[akka://application/system/StreamSupervisor-0/flow-28-2-actorRefSource#-1339573713]
+2020-10-15 22:42:47,501 [INFO] from com.jpro.JS in JavaFX Application Thread - received msg: new MainID: 1162 userid: 744765326
+2020-10-15 22:42:54,811 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:42:54,909 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:42:58,356 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:42:58,456 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:43:03,040 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:43:03,156 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:43:04,037 [INFO] from com.jpro.internal.communicator.InstanceImpl in JavaFX Application Thread - closing window!
+2020-10-15 22:43:04,286 [INFO] from com.jpro.internal.communicator.InstanceImpl in JavaFX Application Thread - closing window!
+2020-10-15 22:43:34,685 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2020-10-15 22:43:34,685 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - Application closed:
+2020-10-15 22:43:34,685 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - startTime      : Thu Oct 15 22:43:34 EEST 2020      
+2020-10-15 22:43:34,685 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageLatency : 00:00:00.019 
+2020-10-15 22:43:34,686 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageJitter  : 00:00:00.000  
+2020-10-15 22:43:34,686 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateServer: 00:00:00.000
+2020-10-15 22:43:34,686 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateClient: 00:00:00.000
+2020-10-15 22:43:34,686 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - raw            : 154474
+2020-10-15 22:43:34,686 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - zipped         : 35837
+2020-10-15 22:43:34,686 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2020-10-15 22:43:34,691 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - application requested: 2003061336!default
+2020-10-15 22:43:34,692 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - Creating Application: 2003061336!default
+2020-10-15 22:43:34,693 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - remoteAddress 0:0:0:0:0:0:0:1
+2020-10-15 22:43:34,693 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - host          localhost:8080
+2020-10-15 22:43:34,694 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-4 - uri           /app/2003061336!default
+2020-10-15 22:43:34,854 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-16 - application requested: 0!default
+2020-10-15 22:43:34,855 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-16 - Creating Application: 0!default
+2020-10-15 22:43:34,855 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-16 - remoteAddress 0:0:0:0:0:0:0:1
+2020-10-15 22:43:34,855 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-16 - host          localhost:8080
+2020-10-15 22:43:34,855 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-16 - uri           /app/0!default
+2020-10-15 22:43:34,938 [INFO] from com.jpro.internal.server.ViewSerializerActor in JavaFX Application Thread - appdef: AppByMain(default,com.mycompany.mqttconsumerui.MainApp,None,NamedClassLoader(system),false) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/default,805.0,466.0,false,ru-RU,List(ru-RU, ru, en-US, en),Map(Idea-99972b2f -> b7eaed3e-45b4-4025-9d7c-cbe2af4c658a))out: Actor[akka://application/system/StreamSupervisor-0/flow-35-2-actorRefSource#-1535283734]
+2020-10-15 22:43:35,097 [INFO] from com.jpro.JS in JavaFX Application Thread - received msg: new MainID: 1162 userid: 1364822251
+2020-10-15 22:43:40,134 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:43:40,233 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:43:44,027 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:43:44,142 [WARN] from com.jpro.meta.tk.SceneInputListener in JavaFX Application Thread - Unknown Keycode: 191
+2020-10-15 22:43:55,304 [INFO] from com.jpro.internal.communicator.InstanceImpl in JavaFX Application Thread - closing window!
+2020-10-15 22:46:54,367 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2020-10-15 22:46:54,367 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - Application closed:
+2020-10-15 22:46:54,367 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - startTime      : Thu Oct 15 22:46:54 EEST 2020      
+2020-10-15 22:46:54,367 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageLatency : 00:00:00.018 
+2020-10-15 22:46:54,368 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageJitter  : 00:00:00.000  
+2020-10-15 22:46:54,368 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateServer: 00:00:00.000
+2020-10-15 22:46:54,368 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateClient: 00:00:00.000
+2020-10-15 22:46:54,368 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - raw            : 306074
+2020-10-15 22:46:54,368 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - zipped         : 88689
+2020-10-15 22:46:54,368 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2020-10-15 22:48:05,189 [INFO] from com.jpro.internal.communicator.InstanceImpl in JavaFX Application Thread - closing window!
+2020-10-15 23:28:43,943 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2020-10-15 23:28:43,943 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - Application closed:
+2020-10-15 23:28:43,943 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - startTime      : Thu Oct 15 23:28:43 EEST 2020      
+2020-10-15 23:28:43,943 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageLatency : 00:00:00.018 
+2020-10-15 23:28:43,943 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - averageJitter  : 00:00:00.000  
+2020-10-15 23:28:43,943 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateServer: 00:00:00.000
+2020-10-15 23:28:43,943 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - framerateClient: 00:00:00.000
+2020-10-15 23:28:43,943 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - raw            : 968090
+2020-10-15 23:28:43,943 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - zipped         : 265837
+2020-10-15 23:28:43,943 [INFO] from com.jpro.internal.stats.ViewInfo$ in JavaFX Application Thread - 
+2020-10-16 00:25:29,518 [INFO] from com.jpro.internal.communicator.InstanceImpl in JavaFX Application Thread - closing window!
+2020-10-16 09:52:44,023 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-16 - application requested: 1551260368!default
+2020-10-16 09:52:44,025 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-16 - Creating Application: 1551260368!default
+2020-10-16 09:52:44,025 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-16 - remoteAddress 0:0:0:0:0:0:0:1
+2020-10-16 09:52:44,025 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-16 - host          localhost:8080
+2020-10-16 09:52:44,025 [INFO] from controllers.jpro in application-akka.actor.default-dispatcher-16 - uri           /app/1551260368!default
+2020-10-16 09:52:44,071 [WARN] from javafx.css in JavaFX Application Thread - Resource "/styles/Styles.css" not found.
+2020-10-16 09:52:44,092 [INFO] from com.jpro.internal.server.ViewSerializerActor in JavaFX Application Thread - appdef: AppByID(1551260368,Some(AppByMain(default,com.mycompany.mqttconsumerui.MainApp,None,NamedClassLoader(system),false))) clientinfo: ClientInfo(http://localhost:8080/,http://localhost:8080/app/default,1536.0,722.0,false,ru-UA,List(ru-UA, ru, uk-UA, en-GB, uk, en-US, en),Map())out: Actor[akka://application/system/StreamSupervisor-0/flow-38-2-actorRefSource#509183752]
+2020-10-16 09:52:44,659 [INFO] from com.jpro.JS in JavaFX Application Thread - received msg: new MainID: 1162 userid: 1897254875
